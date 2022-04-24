@@ -1,5 +1,6 @@
 # IP-Tools
 tools for penetration testing, this is not meant for real hacking 
 
-I am not responsible if you decide to misuse these tools, they are not meant to do any serious hacking.
-Make sure if you use this tool you use it on a network you either own or have permission to use it on or you will probably get in trouble.
+This tool is meant for educational purposes. I am not responposible for any missues or trouble.
+Make sure you use this knowledge on your own network or other networks that you have permission to use.
+At the end of the day this a educational tool so its not that advanced comapared to real hacking tools, they are just meant to teach concepts.
