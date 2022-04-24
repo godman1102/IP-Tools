@@ -1,0 +1,11 @@
+{
+    "font": "consolas",
+    "port_scanner_timeout": 1,
+    "dos_timeout": 1,
+    "device_scanner_timeout": 1,
+    "bg_color": "#949494",
+    "fg_color": "#000000",
+    "button_color": "#404040",
+    "button_text_color": "#ffffff",
+    "text_box_color": "#bababa"
+}
